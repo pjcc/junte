@@ -1,0 +1,21 @@
+body {
+    background:mintcream;
+    color:darkgreen;
+    font-family: Helvetica,Arial,sans-serif;
+    margin:50px;
+}
+h1 {
+    text-align: center;
+    color:rgb(8, 75, 8);
+    font-size:70px;
+}
+h2 {
+    font-size:30px;
+    border-bottom:1px solid darkgreen;
+}
+p {
+    font-size:21px;
+}
+.p1 {
+    border:
+}
