@@ -1,5 +1,5 @@
 body {
-    background:mintcream;
+    background:rgb(249, 252, 250);
     color:darkgreen;
     font-family: Helvetica,Arial,sans-serif;
     margin:50px;
@@ -15,7 +15,29 @@ h2 {
 }
 p {
     font-size:21px;
+    padding-bottom:10px;
 }
-.p1 {
-    border:
+.wd {
+    font-family:webdings;
+}
+button {
+    border-radius:20px;
+    font-size:40px;
+    padding:8px;
+    font-family:inherit;
+    text-align:center;
+
+}
+button:hover{
+    background-color:grey;
+    color:darkgrey;
+    transition-duration:400ms;
+    }
+button:active{
+    background-color:black;
+    color:white;
+
+}
+.central {
+    text-align:center;
 }
